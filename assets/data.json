@@ -1,0 +1,44 @@
+{
+  "profile": {
+    "location": "Yogyakarta",
+    "name": "Joe Samanta",
+    "profileImage": "assets/profile.png"
+  },
+  "homeCard": {
+    "image": "assets/HomeCard.png"
+  },
+  "barbershops": [
+    {
+      "title": "Alana Barbershop – Haircut massage & Spa",
+      "location": "Banguntapan (5 km)",
+      "rating": "4.5",
+      "image": "assets/imag1.png"
+    },
+    {
+      "title": "Hercha Barbershop – Haircut & Styling",
+      "location": "Jalan Kaliurang (8 km)",
+      "rating": "5.0",
+      "image": "assets/imag2.png"
+    },
+    {
+      "title": "Barberking – Haircut styling & massage",
+      "location": "Jogja Expo Centre (12 km)",
+      "rating": "4.8",
+      "image": "assets/imag3.png"
+    }
+  ],
+  "mostRecommended": [
+    {
+      "title": "Modern Barbershop – Trendy haircuts",
+      "subtitle": "Jalan Terang (2 km)",
+      "rating": "5.0",
+      "image": "assets/imag4.png"
+    },
+    {
+      "title": "Master piece Barbershop – Haircut styling",
+      "subtitle": "Joga Expo Centre (2 km)",
+      "rating": "5.0",
+      "image": "assets/imag4.png"
+    }
+  ]
+}

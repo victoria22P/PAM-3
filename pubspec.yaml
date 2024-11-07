@@ -1,0 +1,24 @@
+name: your_project_name
+description: A new Flutter project.
+
+environment:
+  sdk: '^3.5.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2 # sau ultima versiune disponibilă
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/data.json
+    - assets/profile.png
+    - assets/imag1.png
+    - assets/imag2.png
+    - assets/imag3.png
+    - assets/imag4.png
+    - assets/HomeCard.png
